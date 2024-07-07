@@ -73,49 +73,6 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:140349
-DTSTAMP:20240707T024246Z
-SUMMARY:⁂ EUR French Parliamentary Elections
-DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
- ar/910-eur-french-parliamentary-elections
-URL:https://www.forexfactory.com/calendar/910-eur-french-parliamentary-elec
- tions
-DTSTART;TZID=America/New_York:20240630T043000
-DTEND;TZID=America/New_York:20240630T043000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:139390
-DTSTAMP:20240707T024246Z
-SUMMARY:⁂ EUR German Prelim CPI m/m
-DESCRIPTION:Impact: High\n\nForecast: 0.2%\n\nPrevious: 0.1%\n\nView Event:
-  https://www.forexfactory.com/calendar/169-eur-german-prelim-cpi-mm
-URL:https://www.forexfactory.com/calendar/169-eur-german-prelim-cpi-mm
-DTSTART;TZID=America/New_York:20240701T022900
-DTEND;TZID=America/New_York:20240701T022900
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:136708
-DTSTAMP:20240707T024246Z
-SUMMARY: CAD Bank Holiday
-DESCRIPTION:Impact: None\n\nView Event: https://www.forexfactory.com/calend
- ar/389-cad-bank-holiday
-URL:https://www.forexfactory.com/calendar/389-cad-bank-holiday
-DTSTART;TZID=America/New_York:20240701T080000
-DTEND;TZID=America/New_York:20240701T080000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:136592
 DTSTAMP:20240707T024246Z
 SUMMARY:⁂ USD ISM Manufacturing PMI
@@ -124,35 +81,6 @@ DESCRIPTION:Impact: High\n\nForecast: 49.2\n\nPrevious: 48.7\n\nView Event:
 URL:https://www.forexfactory.com/calendar/252-usd-ism-manufacturing-pmi
 DTSTART;TZID=America/New_York:20240701T100000
 DTEND;TZID=America/New_York:20240701T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:138988
-DTSTAMP:20240707T024246Z
-SUMMARY:⁂ EUR Core CPI Flash Estimate y/y
-DESCRIPTION:Impact: High\n\nForecast: 2.8%\n\nPrevious: 2.9%\n\nView Event:
-  https://www.forexfactory.com/calendar/593-eur-core-cpi-flash-estimate-yy
-URL:https://www.forexfactory.com/calendar/593-eur-core-cpi-flash-estimate-y
- y
-DTSTART;TZID=America/New_York:20240702T050000
-DTEND;TZID=America/New_York:20240702T050000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:138989
-DTSTAMP:20240707T024246Z
-SUMMARY:⁂ EUR CPI Flash Estimate y/y
-DESCRIPTION:Impact: High\n\nForecast: 2.5%\n\nPrevious: 2.6%\n\nView Event:
-  https://www.forexfactory.com/calendar/168-eur-cpi-flash-estimate-yy
-URL:https://www.forexfactory.com/calendar/168-eur-cpi-flash-estimate-yy
-DTSTART;TZID=America/New_York:20240702T050000
-DTEND;TZID=America/New_York:20240702T050000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
@@ -245,34 +173,6 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:135018
-DTSTAMP:20240707T024246Z
-SUMMARY:⁂ CHF CPI m/m
-DESCRIPTION:Impact: High\n\nForecast: 0.1%\n\nPrevious: 0.3%\n\nView Event:
-  https://www.forexfactory.com/calendar/100-chf-cpi-mm
-URL:https://www.forexfactory.com/calendar/100-chf-cpi-mm
-DTSTART;TZID=America/New_York:20240704T023000
-DTEND;TZID=America/New_York:20240704T023000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:138932
-DTSTAMP:20240707T024246Z
-SUMMARY:⁂ GBP Parliamentary Elections
-DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
- ar/493-gbp-parliamentary-elections
-URL:https://www.forexfactory.com/calendar/493-gbp-parliamentary-elections
-DTSTART;TZID=America/New_York:20240704T033000
-DTEND;TZID=America/New_York:20240704T033000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:136580
 DTSTAMP:20240707T024246Z
 SUMMARY: USD Bank Holiday
@@ -281,34 +181,6 @@ DESCRIPTION:Impact: None\n\nView Event: https://www.forexfactory.com/calend
 URL:https://www.forexfactory.com/calendar/370-usd-bank-holiday
 DTSTART;TZID=America/New_York:20240704T080000
 DTEND;TZID=America/New_York:20240704T080000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:138143
-DTSTAMP:20240707T024246Z
-SUMMARY:⁂ CAD Employment Change
-DESCRIPTION:Impact: High\n\nForecast: 27.3K\n\nPrevious: 26.7K\n\nView Even
- t: https://www.forexfactory.com/calendar/67-cad-employment-change
-URL:https://www.forexfactory.com/calendar/67-cad-employment-change
-DTSTART;TZID=America/New_York:20240705T083000
-DTEND;TZID=America/New_York:20240705T083000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:138131
-DTSTAMP:20240707T024246Z
-SUMMARY:⁂ CAD Unemployment Rate
-DESCRIPTION:Impact: High\n\nForecast: 6.3%\n\nPrevious: 6.2%\n\nView Event:
-  https://www.forexfactory.com/calendar/57-cad-unemployment-rate
-URL:https://www.forexfactory.com/calendar/57-cad-unemployment-rate
-DTSTART;TZID=America/New_York:20240705T083000
-DTEND;TZID=America/New_York:20240705T083000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
@@ -358,21 +230,6 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:140348
-DTSTAMP:20240707T134246Z
-SUMMARY:⁂ EUR French Parliamentary Elections
-DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
- ar/910-eur-french-parliamentary-elections
-URL:https://www.forexfactory.com/calendar/910-eur-french-parliamentary-elec
- tions
-DTSTART;TZID=America/New_York:20240707T043000
-DTEND;TZID=America/New_York:20240707T043000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:140373
 DTSTAMP:20240707T134246Z
 SUMMARY:⁂ USD Fed Chair Powell Testifies
@@ -388,34 +245,6 @@ TRIGGER:-PT10M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:136465
-DTSTAMP:20240707T134246Z
-SUMMARY:⁂ NZD Official Cash Rate
-DESCRIPTION:Impact: High\n\nForecast: 5.50%\n\nPrevious: 5.50%\n\nView Even
- t: https://www.forexfactory.com/calendar/23-nzd-official-cash-rate
-URL:https://www.forexfactory.com/calendar/23-nzd-official-cash-rate
-DTSTART;TZID=America/New_York:20240709T220000
-DTEND;TZID=America/New_York:20240709T220000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:136472
-DTSTAMP:20240707T134246Z
-SUMMARY:⁂ NZD RBNZ Rate Statement
-DESCRIPTION:Impact: High\n\nView Event: https://www.forexfactory.com/calend
- ar/24-nzd-rbnz-rate-statement
-URL:https://www.forexfactory.com/calendar/24-nzd-rbnz-rate-statement
-DTSTART;TZID=America/New_York:20240709T220000
-DTEND;TZID=America/New_York:20240709T220000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:140384
 DTSTAMP:20240707T134246Z
 SUMMARY:⁂ USD Fed Chair Powell Testifies
@@ -425,20 +254,6 @@ URL:https://www.forexfactory.com/calendar/731-usd-fed-chair-powell-testifie
  s
 DTSTART;TZID=America/New_York:20240710T100000
 DTEND;TZID=America/New_York:20240710T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:138840
-DTSTAMP:20240707T134246Z
-SUMMARY:⁂ GBP GDP m/m
-DESCRIPTION:Impact: High\n\nForecast: 0.2%\n\nPrevious: 0.0%\n\nView Event:
-  https://www.forexfactory.com/calendar/804-gbp-gdp-mm
-URL:https://www.forexfactory.com/calendar/804-gbp-gdp-mm
-DTSTART;TZID=America/New_York:20240711T020000
-DTEND;TZID=America/New_York:20240711T020000
 BEGIN:VALARM
 ACTION:AUDIO
 TRIGGER:-PT10M
@@ -537,21 +352,6 @@ DESCRIPTION:Impact: High\n\nForecast: 67.0\n\nPrevious: 65.6\n\nView Event:
  t
 URL:https://www.forexfactory.com/calendar/53-usd-prelim-uom-consumer-sentim
  ent
-DTSTART;TZID=America/New_York:20240712T100000
-DTEND;TZID=America/New_York:20240712T100000
-BEGIN:VALARM
-ACTION:AUDIO
-TRIGGER:-PT10M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:136321
-DTSTAMP:20240707T134246Z
-SUMMARY:⁑ USD Prelim UoM Inflation Expectations
-DESCRIPTION:Impact: Medium\n\nPrevious: 3.3%\n\nView Event: https://www.for
- exfactory.com/calendar/236-usd-prelim-uom-inflation-expectations
-URL:https://www.forexfactory.com/calendar/236-usd-prelim-uom-inflation-expe
- ctations
 DTSTART;TZID=America/New_York:20240712T100000
 DTEND;TZID=America/New_York:20240712T100000
 BEGIN:VALARM
